@@ -1,0 +1,33 @@
+.nav_container{
+background-color:#60D691;
+gap: 1rem;
+padding-left: 120px;
+margin-top: 20px;
+
+
+}
+
+
+.nav_container .nav1{
+    display:flex;
+    gap:1rem;
+    padding-left: 0px;
+
+}
+
+
+.nav_container .nav1 h1{
+   gap:1rem;
+   color: blue;
+  
+   margin-left: 10px;
+   padding-left: 10px;
+} 
+
+
+
+.nav_container .nav1 h3{
+
+    padding-left: 55px;
+}
+
